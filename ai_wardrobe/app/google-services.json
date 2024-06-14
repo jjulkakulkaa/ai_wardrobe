@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1007660247435",
+    "project_id": "aiwardrobe-a3502",
+    "storage_bucket": "aiwardrobe-a3502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007660247435:android:0129cf563ae20632ee678e",
+        "android_client_info": {
+          "package_name": "edu.put.ai_wardrobe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007660247435-qddbvo0cb7fn2i4k50lr1n6h8qjvm4ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.put.ai_wardrobe",
+            "certificate_hash": "f3e0af3c54d57d13baac73a9824737a2f3adf2dd"
+          }
+        },
+        {
+          "client_id": "1007660247435-lm8qc21iupu0pmg291tkilqiqhpulfk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkMVtZJMlFuAV7q0nj3vwAShgGm6Ij28U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007660247435-lm8qc21iupu0pmg291tkilqiqhpulfk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
